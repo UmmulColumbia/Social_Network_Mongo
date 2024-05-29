@@ -38,7 +38,7 @@ Use Insomnia or another API client to test the routes.
 
 https://drive.google.com/file/d/1FF9ENSOjTXF4NpU2FMaq3IWx8INbYaay/view
 
-[Link to Walkthrough Video](URL to my video)
+https://drive.google.com/file/d/1NDuTMgflKUiL6mAoROhBqYpMqJ63ub6X/view
 
 ## License
 
