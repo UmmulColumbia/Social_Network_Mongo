@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Ummul Mukta](https://github.com/github-profile)
+[Ummul Mukta](https://github.com/UmmulColumbia?tab=repositories)
